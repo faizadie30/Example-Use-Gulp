@@ -17,10 +17,9 @@ Add new file: gulpfile.js or downlaod in my repo
 ***************************************************
 
 run gulp in terminal, use to minify file js or css
-``
-C:\belajar\gulp>gulp
-[01:24:22] Using gulpfile C:\belajar\gulp\gulpfile.js
-[01:24:22] Starting 'default'...
-[01:24:22] Starting 'watcher'...
-[01:24:44] Starting 'example-task'...
-``
+``C:\belajar\gulp>gulp``
+
+``[01:24:22] Using gulpfile C:\belajar\gulp\gulpfile.js``
+``[01:24:22] Starting 'default'...``
+``[01:24:22] Starting 'watcher'...``
+``[01:24:44] Starting 'example-task'...``
