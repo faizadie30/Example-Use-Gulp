@@ -1,7 +1,7 @@
 {
-  "name": "gulp",
+  "name": "gulp-ducumentation-example",
   "version": "1.0.0",
-  "description": "Documentation use gulp version 4+",
+  "description": "documentation use gulp version 4.x in directory project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/faizadie30/gulp.git"
   },
-  "keywords": [
-    "gulp",
-    "gulp-documentation"
-  ],
   "author": "@faiz.adie",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/faizadie30/gulp/issues"
   },
-  "homepage": "https://github.com/faizadie30/gulp#readme"
+  "homepage": "https://github.com/faizadie30/gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.9",
+    "gulp-terser": "^2.1.0"
+  }
 }
