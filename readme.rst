@@ -16,7 +16,8 @@ run in terminal: ``npm install -D gulp gulp-concat gulp-terser gulp-header``
 Add new file: gulpfile.js or downlaod in my repo
 ***************************************************
 
-run gulp in terminal, use to minify file js or css
+run gulp in terminal, use to minify file js or css:
+
 ``C:\belajar\gulp>gulp``
 
 ``[01:24:22] Using gulpfile C:\belajar\gulp\gulpfile.js``
